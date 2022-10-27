@@ -1,4 +1,5 @@
 #ISLA DEL TESORO
+#Empieza a jugar
 print("Bienvenido a la isla tu misión será encontrar el tesoro")
 print("¿Tenemos un mapa?")
 print("Si tenemos un mapa (1) No tenemos un mapa (2)")
